@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4aw77XpM2IBSTkQqTFvcxb8VwOkqFhBKcVKjxeYtpyk=",
+  "Source": "TBCTask.API",
+  "BasePath": "_content/TBCTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "oi0q1D+JjwnfSoH7P1fkkNtbsW2NM7TzlCebXL6BcQ4pq1xAVxEb85fcqIvTzZ3JflZNZHZY2kw3A0tntAvR1g==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/RiderProjects/TBCTask.API/TBCTask.Services/TBCTask.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/fluentvalidation/11.5.0/fluentvalidation.11.5.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.localization/7.0.3/microsoft.extensions.localization.7.0.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.localization.abstractions/7.0.3/microsoft.extensions.localization.abstractions.7.0.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/nlog/5.1.1/nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
